@@ -36,6 +36,7 @@
 
 8. RWD – 於手機或平板顯示將導覽列摺疊並將列表改為垂直排列
 <img src="image/8.png">
+
 5. 功能實作方法
    將資料儲存於 LocalStorage
 
