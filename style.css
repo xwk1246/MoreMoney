@@ -1,6 +1,28 @@
-a {
+body {
+  background-image: url(bg.jpg);
+  background-size: cover;
+}
+a,
+h2,
+h3,
+h4,
+table {
   font-family: "Noto Sans TC", sans-serif;
+}
+select {
+  font-family: "Noto Sans TC", sans-serif;
+  margin-bottom: 30px;
 }
 .navbar-brand {
   font-family: "Nerko One", cursive;
+}
+.main-table {
+  background-color: rgba(33, 37, 41, 0.849);
+  margin-top: 2%;
+  padding: 50px;
+  border: rgb(163, 159, 159) solid 2px;
+  border-radius: 20px;
+}
+.ac-list-container {
+  margin: 20px;
 }
